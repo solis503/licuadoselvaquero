@@ -29,7 +29,7 @@ const featured = [
   {
     productId: 'frz-2',
     name: 'Frappuccino Carmelo',
-    image: 'https://images.pexels.com/photos/12801415/pexels-photo-12801415.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=600&w=500',
+    image: 'https://images.pexels.com/photos/15086187/pexels-photo-15086187.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=600&w=500',
   },
 ];
 
