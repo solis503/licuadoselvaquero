@@ -23,7 +23,7 @@ const pricingTiers = [
   {
     name: 'Licuados',
     emoji: '🥤',
-    price: '1.50',
+    price: '1.75',
     suffix: 'desde',
     description: 'Nuestras bebidas cremosas con leche y frutas',
     features: [
@@ -40,7 +40,7 @@ const pricingTiers = [
   {
     name: 'Frozen',
     emoji: '🧊',
-    price: '1.75',
+    price: '2.00',
     suffix: 'desde',
     description: 'Bebidas heladas, yogurt y frappuccinos',
     features: [
