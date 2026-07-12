@@ -151,7 +151,7 @@ export default function Hero() {
                   </div>
                   <div>
                     <p className="text-xs text-brown-400 font-medium">Desde solo</p>
-                    <p className="text-2xl font-bold gradient-text">$2.00</p>
+                    <p className="text-2xl font-bold gradient-text">$1.75</p>
                   </div>
                 </div>
               </motion.div>
